@@ -1,0 +1,6 @@
+C:\Users\maxun\Desktop\CSharpGDI\CSharpGDI\bin\Debug\CSharpGDI.exe.config
+C:\Users\maxun\Desktop\CSharpGDI\CSharpGDI\obj\Debug\CSharpGDI.csprojResolveAssemblyReference.cache
+C:\Users\maxun\Desktop\CSharpGDI\CSharpGDI\bin\Debug\CSharpGDI.exe
+C:\Users\maxun\Desktop\CSharpGDI\CSharpGDI\bin\Debug\CSharpGDI.pdb
+C:\Users\maxun\Desktop\CSharpGDI\CSharpGDI\obj\Debug\CSharpGDI.exe
+C:\Users\maxun\Desktop\CSharpGDI\CSharpGDI\obj\Debug\CSharpGDI.pdb
